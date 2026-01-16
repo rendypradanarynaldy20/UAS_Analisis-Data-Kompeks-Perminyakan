@@ -1,5 +1,5 @@
 # UAS_Analisis-Data-Kompeks-Perminyakan
-Pebandingan Model Unsupervised (K-Means, GMM, DBSCAN
+Pebandingan Model Unsupervised (K-Means, GMM, DBSCAN)
 # Unsupervised Machine Learning for Facies Clustering
 
 ## 📌 Overview
