@@ -13,3 +13,6 @@ Studi ini membandingkan performa **K-Means** sebagai baseline dengan **DBSCAN** 
 ---
 
 ## 📂 File Structure
+├── Model_Unsupervised_Facies_data2_.ipynb
+├── facies_data2.csv
+└── README.md
